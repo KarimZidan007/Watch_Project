@@ -1,0 +1,27 @@
+/*
+ * MCAL_EXT_INT.h
+ *
+ *  Created on: ??þ/??þ/????
+ *      Author: m
+ */
+
+#ifndef MCAL_EXTERNAL_INTERRUPT_MCAL_EXT_INT_CONFG_H_
+#define MCAL_EXTERNAL_INTERRUPT_MCAL_EXT_INT_CONFG_H_
+
+
+
+
+
+
+#define INT0_SENSE_MODE 	EXT_INT_FALLING_EDGE
+#define INT1_SENSE_MODE		EXT_INT_FALLING_EDGE
+#define INT2_SENSE_MODE		EXT_INT_FALLING_EDGE
+
+
+
+
+
+
+
+
+#endif /* MCAL_EXTERNAL_INTERRUPT_MCAL_EXT_INT_CONFG_H_ */
